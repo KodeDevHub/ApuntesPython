@@ -14,7 +14,7 @@ E instancias... excepciones... hilos(wtf), aquí encontrarás de todo.
 
 # Esto es como un "Anki" de Python. 
 
-Sin leer mucho, sin ver tutoriales mal grabados de Youtube. totalmente visual. En segundos.
+Sin leer mucho, sin ver tutoriales mal grabados de Youtube. Totalmente visual. En segundos.
 
 Pongo ejemplos de cada cosa. Si hay 5 tipos de excepciones, pongo las 5. Si hay dos tipos de hacer format, pongo los dos.
 
